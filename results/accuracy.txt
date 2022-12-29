@@ -1,0 +1,1 @@
+Decision tree (accuracy): 0.9122807017543859Random forest (accuracy): 0.9473684210526315
